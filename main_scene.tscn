@@ -1,4 +1,4 @@
-[gd_scene load_steps=70 format=3 uid="uid://c4sa6c60r1myd"]
+[gd_scene format=3 uid="uid://c4sa6c60r1myd"]
 
 [ext_resource type="Script" path="res://GameModules/Player/Player.gd" id="1_phkkc"]
 [ext_resource type="Script" path="res://GameModules/Player/movement_controller.gd" id="1_t2242"]
