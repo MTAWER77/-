@@ -1,8 +1,0 @@
-[gd_scene format=3 uid="uid://kdrk14x15c64"]
-
-[sub_resource type="BoxMesh" id="BoxMesh_4xowi"]
-
-[node name="Node3D" type="Node3D" unique_id=1547273198]
-
-[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=1623560633]
-mesh = SubResource("BoxMesh_4xowi")
